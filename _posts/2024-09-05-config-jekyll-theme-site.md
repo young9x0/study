@@ -174,7 +174,7 @@ group :jekyll_plugins do
 end
 ```
 <br/>
-bundle exec jekyll serve`로 서버 실행하기!
+- bundle exec jekyll serve로 서버 실행하기!
 
 ```
 bundle
