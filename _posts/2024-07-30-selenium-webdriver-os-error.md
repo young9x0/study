@@ -8,7 +8,6 @@ tags:
   - Webdriver_OS_Error
 last_modified_at: 2024-07-30T23:06:00-05:00
 ---
-<br />
 
 # issue
 **selenium webdriver**를 실행하니 *OSError: [Errno 8] Exec format error*가 발생했다.
