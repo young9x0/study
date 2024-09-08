@@ -15,6 +15,7 @@ last_modified_at: 2024-09-04T23:06:00-05:00
 BoW에 기반한 단어 표현 방법인 TF-IDF에서 코사인 유사도를 이용하여 문서의 유사도를 구한다
 
 ## [코사인 유사도](https://bkshin.tistory.com/entry/NLP-8-문서-유사도-측정-코사인-유사도)란?
+![cosine function graph](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcoDff%2FbtqBS6dC19R%2FOMWSZLio9mqXXyGmch7Ack%2Fimg.jpg){: .align-center}
 * θ를 두 벡터 간의 사잇각이라고 했을 때 θ=0이면, cosθ = 1.
   코사인 유사도가 1이면 두 벡터는 완전히 동일한 벡터.
   마찬가지로 두 벡터 간의 사잇각이 90도이면, 코사인 유사도가 0이되고 두 벡터는 상관 관계가 없다.
@@ -31,4 +32,5 @@ BoW에 기반한 단어 표현 방법인 TF-IDF에서 코사인 유사도를 이
     <br />
 
 * [외적 오른손 법칙](https://assortrock.tistory.com/m/24?category=635936)
-  ![외적 오른손 법칙](https://t1.daumcdn.net/cfile/tistory/2743733B5732EF912A)
+<br />
+  ![외적 오른손 법칙](https://t1.daumcdn.net/cfile/tistory/2743733B5732EF912A){: .align-center}
