@@ -41,7 +41,7 @@ yml은 들여쓰기 하나 잘못되도 에러가 나므로 조심히 수정을 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 ```
-![검색 기능 활성화](https://ju0jung.github.io/voice-processing/assets/images/config-search-true.png){: .align-center}
+![검색 기능 활성화](https://recursive-o.github.io/voice-processing/assets/images/config-search-true.png){: .align-center}
 
 <br />
 <br />
@@ -77,7 +77,7 @@ defaults:
 먼저 disqus shortname의 경우 다음과 같이 디스커스에 만든 본인 사이트의 `admin/settings/general`탭으로 가면 확인할 수 있다.
 <br/>
 참고로 나의 경우는 사이트 url이 `https://https-ju0jung.disqus.com/admin/settings/general/` 인데 shortname(https-ju0jung)이 url 중간에 들어간 것을 알 수 있다.
-![img.png](https://ju0jung.github.io/voice-processing/assets/images/disqus_site_shortname.png){: .align-center}
+![img.png](https://recursive-o.github.io/voice-processing/assets/images/disqus_site_shortname.png){: .align-center}
 
 
 

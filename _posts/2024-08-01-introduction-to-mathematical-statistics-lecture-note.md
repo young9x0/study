@@ -13,8 +13,8 @@ last_modified_at: 2024-08-13T23:06:00-05:00
 - n 차원 단위입방체에서 정의된 다중적분에 대한 예제
 <br/>
 
-![img.png](https://ju0jung.github.io/voice-processing/assets/images/ex-1.2.4.png){: .align-center}
-![img.png](https://ju0jung.github.io/voice-processing/assets/images/ex-1.2.4-chat-gpt-answer.png){: .align-center}
+![img.png](https://recursive-o.github.io/voice-processing/assets/images/ex-1.2.4.png){: .align-center}
+![img.png](https://recursive-o.github.io/voice-processing/assets/images/ex-1.2.4-chat-gpt-answer.png){: .align-center}
 <br/>
 
 - 참고 자료
@@ -59,7 +59,7 @@ last_modified_at: 2024-08-13T23:06:00-05:00
 <br/>
 
 # ex) 1.7.4
-![exponential-function-differentiation](https://ju0jung.github.io/voice-processing/assets/images/ex-1.7.4-exponential-function-differentiation.png){: .align-center}
+![exponential-function-differentiation](https://recursive-o.github.io/voice-processing/assets/images/ex-1.7.4-exponential-function-differentiation.png){: .align-center}
 <br/>
 
 - **자연상수 e**
