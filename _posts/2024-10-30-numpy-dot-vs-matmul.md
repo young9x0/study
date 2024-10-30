@@ -76,5 +76,5 @@ numpy.dot은 두 배열의 내적곱(dot product)라고 적혀있는 반면에, 
 <br />
 
 # 출처
-https://blog.naver.com/combioai/221356884894
-https://velog.io/@limdy/Numpy-%EC%8B%AC%ED%99%94-1
+[정의](https://blog.naver.com/combioai/221356884894)
+[코드 예제](https://velog.io/@limdy/Numpy-%EC%8B%AC%ED%99%94-1)
