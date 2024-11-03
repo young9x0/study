@@ -2,7 +2,7 @@
 title:      Selenium webdriver OSError 해결하기
 summary:    "Selenium webdriver OSError: [Errno 8] Exec format error"
 categories: 
-  - Error
+  - error
 tags:
   - Selenium_Webdriver
   - Webdriver_OS_Error

@@ -1,14 +1,15 @@
 ---
-title: numpy dot과 matmul 차이
+title: numPy dot과 matmul 차이
 search: true
 categories: 
-  - Jekyll-Theme  
+  - numPy
 tags:
-  - numpy
-  - numpy.dot
-  - numpy.matmul
+  - numPy
+  - numPy.dot
+  - numPy.matmul
 ---
 <br />
+numPy dot과 matmul 함수 계산 방법의 차이를 알아본다.
 
 # 용어 정리
   * 행렬(matrix): 일반적으로 2차원 구조(행과 열)를 갖는 것
@@ -77,4 +78,4 @@ numpy.dot은 두 배열의 내적곱(dot product)라고 적혀있는 반면에, 
 
 # 출처
 [정의](https://blog.naver.com/combioai/221356884894)
-[코드 예제](https://velog.io/@limdy/Numpy-%EC%8B%AC%ED%99%94-1)
+[코드 예제](https://velog.io/@limdy/numpy-%EC%8B%AC%ED%99%94-1)

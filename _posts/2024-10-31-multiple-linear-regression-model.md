@@ -2,12 +2,14 @@
 title: 행렬 미분 예시 - 다변량 선형회귀 모델 최적의 파라미터 w 구하기
 search: true
 categories: 
-  - Jekyll-Theme  
+  - math
 tags:
   - multiple_linear_regression_model
   - matrix_derivative
 ---
 <br />
+다변량 선형회귀 모델 최적의 파라미터 w 구하며 행렬 미분에 대해 알아본다. 
+
 # issue
 
 이미지 출처: 방통대 머신러닝 교재
