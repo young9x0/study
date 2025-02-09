@@ -16,7 +16,7 @@ microsoft 공식 웹사이트에서 microsoft visual c ++ 재배포 가능 패�
 <br />
 'Visual Studio 2015용 Visual C++ 재배포 가능 패키지'로 검색해서 vc_redist.x86.exe를 다운로드 받으면 된다.(점사랑 파일이 86 bit로 되어 있다.)
 
-![점사랑5.0]({{site.url}}/assets/images/braillove5.png)
+![점사랑5.0]({{site.url}}{{site.baseurl}}/assets/images/braillove5.png)
 
 <br />
 참고로 점사랑 2.0 수검용은 압축풀기 에러로 설치가 되지 않는다.
