@@ -10,7 +10,7 @@ tags:
 ---
 다카시마 료이치의 파이썬으로 배우는 음성인식, 2장 2-3절을 참고해 '음성인식 문제의 수식 표현'을 하면 다음과 같다.
 
-![1](https://recursive-o.github.io/voice-processing/assets/images/speech-recognition-with-python/speech-recongition-basic-1.png)
+![1]({{site.url}}/assets/images/speech-recognition-with-python/speech-recongition-basic-1.png)
 
 <br />
 위의 1번 식에서 P(x\|w)는 텍스트 w를 발화했을 때 녹음된 음성이 x일 확률이다.
@@ -29,7 +29,7 @@ p를 다음과 같이 정의한다면
 
 
 확률 주변화 정의는 다음 식과 같다.
-![1](https://recursive-o.github.io/voice-processing/assets/images/speech-recognition-with-python/speech-recongition-basic-2.png)
+![1]({{site.url}}/assets/images/speech-recognition-with-python/speech-recongition-basic-2.png)
 
 정의에 따라 1번 식은 P(w) = P(p\|w) 라고 가정하고 변형한 것 같다. [확인 필요]
 
@@ -62,7 +62,7 @@ P((x\|p) \| w) P(w) = P(x\|p, w) 이다.
 
 <br />
 
-![1](https://recursive-o.github.io/voice-processing/assets/images/speech-recognition-with-python/speech-recongition-basic-4.png)
+![1]({{site.url}}/assets/images/speech-recognition-with-python/speech-recongition-basic-4.png)
 
 
 <br />

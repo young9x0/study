@@ -1,5 +1,5 @@
 ---
-title: 텍스트 전처리(text preprocessing) - 토큰화(Tokenization)
+title: 텍스트 전처리 (text preprocessing) - 토큰화 (Tokenization)
 search: true
 categories:
   - text_preprocessing

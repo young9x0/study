@@ -31,7 +31,7 @@ numPy dot과 matmul 함수 계산 방법의 차이를 알아본다.
 numpy.dot은 두 배열의 내적곱(dot product)라고 적혀있는 반면에, numpy.matmul은 두 배열의 행렬곱(matrix product)라고 적혀있다.
 
 # 계산 방식 비교
-![2024-10-30-numpy-dot-vs-matmul](https://recursive-o.github.io/voice-processing/assets/images/numpy-dot-vs-matmul.png)
+![2024-10-30-numpy-dot-vs-matmul]({{site.url}}/assets/images/numpy-dot-vs-matmul.png)
 
 <br />
 

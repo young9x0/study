@@ -21,7 +21,7 @@ tags:
 5, 6번 점화식을 풀어 폐쇄형을 구하는 과정은 다음과 같다.
 <br />
 
-![5,6번 증명](https://recursive-o.github.io/voice-processing/assets/images/proof-of-closed-type-5-to-6.jpeg)
+![5,6번 증명]({{site.url}}/assets/images/proof-of-closed-type-5-to-6.jpeg)
 
 ## 참고 문서
 [1. 3 알고리즘의 설계](https://3catpapa.tistory.com/29)

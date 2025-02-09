@@ -14,16 +14,16 @@ tags:
 
 이미지 출처: 방통대 머신러닝 교재
 - 정의
-![multiple_linear_regression_model definition](https://recursive-o.github.io/voice-processing/assets/images/mlrm/mlrm_definition.png)
+![multiple_linear_regression_model definition]({{site.url}}/assets/images/mlrm/mlrm_definition.png)
 - E 함수 w로 편미분하기, 이때 행렬 미분이 사용된다.
-![multiple_linear_regression_model mse](https://recursive-o.github.io/voice-processing/assets/images/mlrm/mlrm_mse.png)
+![multiple_linear_regression_model mse]({{site.url}}/assets/images/mlrm/mlrm_mse.png)
 
 <br />
 
 # solution 
 
 
-![img.png](https://recursive-o.github.io/voice-processing/assets/images/mlrm/chatgpt_solution.png)
+![img.png]({{site.url}}/assets/images/mlrm/chatgpt_solution.png)
 
 ---
 # reference
@@ -33,7 +33,7 @@ tags:
 - 1×1 행렬은 스칼라가 아니다.
   - [나무위키 > 행렬 - 주의점](https://namu.wiki/w/%ED%96%89%EB%A0%AC(%EC%88%98%ED%95%99)#s-4.7)
 - 그러나 1×1 행렬은 스칼라처럼 작동한다.
-![product_one_by_one_matrix.png](https://recursive-o.github.io/voice-processing/assets/images/mlrm/product_one_by_one_matrix.png)
+![product_one_by_one_matrix.png]({{site.url}}/assets/images/mlrm/product_one_by_one_matrix.png)
 - x = [x1, x2, ..., xn]^T,   y = [y1, y2, ..., yn]^T 일 때,  xTy를 미분하면 xTy = yTx이므로 yTx를 미분한 값과 같다.
 ```
 xTy = x1*y1 + x2*y2 + ... + xn*yn

@@ -18,7 +18,7 @@ intellij에서 프로젝트별 python venv(가상환경)을 설정하는 방법�
 
 <br />
 
-![make .venv](/Users/juyoung/pjs/voice-processing/assets/images/intellij-python-venv-config/after-python-venv-command.png)
+![make .venv]({{site.url}}/assets/images/intellij-python-venv-config/after-python-venv-command.png)
 
 2. intellij project structure platform setting sdks 설정
 - intellij에서 해당 프로젝트의 prject structure으로 들어간다.(단축키 _command + ;_ 를 사용한다) 
@@ -28,7 +28,7 @@ intellij에서 프로젝트별 python venv(가상환경)을 설정하는 방법�
 
 <br />
 
-![intellij project structure platform setting sdks](/Users/juyoung/pjs/voice-processing/assets/images/intellij-python-venv-config/intellij-project-structure-python-sdk-config.png)
+![intellij project structure platform setting sdks]({{site.url}}/assets/images/intellij-python-venv-config/intellij-project-structure-python-sdk-config.png)
 
 
 ### 참고 문서
