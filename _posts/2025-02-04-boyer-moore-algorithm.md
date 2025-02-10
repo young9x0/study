@@ -115,7 +115,7 @@ pattern 문자의 index 0을 일치 접미사의 index 위치 3으로 옮긴다.
 |         |   | 0 | 1                                  | 2 | 3                                    | 4 | 5 | 6 |
 |---------|---|---|------------------------------------|---|--------------------------------------|---|---|---|
 | Text    | = | c | <span style = "color:red">a</span> | c | <span style = "color:green">a</span> | a | c | c |
-| Pattern | = |   |                                   |   | a | b                                  | c | a |
+| Pattern | = |   |                                   |   | <span style = "color:red">a</span> | b                                  | c | a |
   
 만약 일치 접미사를 모두 줄여도 pattern에서 동일한 문자를 발견할 수 없다면 pattern의 길이만큼 오른쪽으로 이동한다.
   
