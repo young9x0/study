@@ -100,23 +100,32 @@ pattern 문자에서 일치 접미부 a, c와 일치하는 자리는 index 0, 1�
 
 
 만약 일치 접미부와 동일한 문자를 pattern에서 찾을 수 없다면 일치 접미부를 왼쪽부터 한 문자씩 줄여가며 반복해서 조사한다.  
-index 1에서 불일치가 발생했고, 일치 접미사는 c, a인 상황이다. index 1을 기준으로 왼쪽의 pattern 문자 a, b에는 일치 접미사와 동일한 문자를 발견할 수 없다.  
-일치 접미사를 a로 줄이고 다시 찾아본다. index 1을 기준으로 왼쪽의 pattern 문자 a와 일치한다. 
+index 1에서 불일치가 발생했고, 일치 접미사는 a, b, c, a인 상황이다. index 1을 기준으로 왼쪽의 pattern 문자 c, a에는 일치 접미사와 동일한 문자열을 발견할 수 없다.  
 
-|         |   | 0 | 1                                  | 2 | 3                                    | 4 | 5 | 6 |
-|---------|---|---|------------------------------------|---|--------------------------------------|---|---|---|
-| Text    | = | c | <span style = "color:red">a</span> | c | <span style = "color:green">a</span> | a | c | c |
-| Pattern | = | <span style = "color:green">a</span> | b                                  | c | a                                    |      |   |
-
+|         |   | 0                                     | 1                                     | 2                                    | 3                                    | 4                                    | 5 | 6 | 7 | 8 | 9 |
+|---------|---|---------------------------------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--|---|---|---|---|
+| Text    | = | b                                     | <span style = "color:red">c</span>    | <span style = "color:green">a</span> | <span style = "color:green">b</span> | <span style = "color:green">c</span> | <span style = "color:green">a</span> | a | b | c | a |
+| Pattern | = | <span style = "color:orange">c</span> | <span style = "color:orange">a</span> | a                                    | b                                    | c                                    | a |
 
 
-pattern 문자의 index 0을 일치 접미사의 index 위치 3으로 옮긴다.  
 
-|         |   | 0 | 1                                  | 2 | 3                                    | 4 | 5 | 6 |
-|---------|---|---|------------------------------------|---|--------------------------------------|---|---|---|
-| Text    | = | c | <span style = "color:red">a</span> | c | <span style = "color:green">a</span> | a | c | c |
-| Pattern | = |   |                                   |   | <span style = "color:red">a</span> | b                                  | c | a |
-  
+일치 접미사를 b, c, a로 줄이고 다시 찾아본다. 이 과정을 반복한다. 
+
+
+|         |   | 0 | 1                                  | 2 | 3                                    | 4                                    | 5                                    | 6 | 7 | 8 | 9 |
+|---------|---|---|------------------------------------|---|--------------------------------------|--------------------------------------|--------------------------------------|---|---|---|---|
+| Text    | = | b | <span style = "color:red">c</span> | a | <span style = "color:green">b</span> | <span style = "color:green">c</span> | <span style = "color:green">a</span> | a | b | c | a |
+| Pattern | = | <span style = "color:orange">c</span> | <span style = "color:orange">a</span> | a                                    | b                                    | c                                    | a                                    |
+
+
+일치 접미사가 c, a일 때 pattern 문자의 index 0, 1인 c, a 와 일치한다.  일치 접미사의 index 위치 3으로 옮긴다.  
+
+
+|         |   | 0 | 1                                  | 2 | 3 | 4                                    | 5                                     | 6 | 7 | 8 | 9 |
+|---------|---|---|------------------------------------|---|---|--------------------------------------|---------------------------------------|---|---|---|---|
+| Text    | = | b | <span style = "color:red">c</span> | a | b | <span style = "color:green">c</span> | <span style = "color:green">a</span>  | a | b | c | a |
+| Pattern | = |  | |          |   |                                     <span style = "color:orange">c</span> | <span style = "color:orange">a</span> | a | b | c | a |
+
 만약 일치 접미사를 모두 줄여도 pattern에서 동일한 문자를 발견할 수 없다면 pattern의 길이만큼 오른쪽으로 이동한다.
   
 <br />
