@@ -7,6 +7,7 @@ tags:
   - braillove5
   - braile-editor
 ---
+점사랑 설치 시 오류 내용을 기록한다.
 <br />
 
 mac m1에서 점사랑 프로그램을 지원하지 않아 vmware 가상서버에 window11 64 bit arm을 설치해서 돌려보았다.
