@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Juyoung"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "관심분야: Assistive Technology for the visual impairments"
+  bio              : "관심분야: Data Engineering, Computer Vision, NLP"
   location         : "Seoul"
   email            :
   links:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/young9x0"
 
 
 # Reading Files
