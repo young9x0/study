@@ -13,16 +13,15 @@ pdf to hangul brf file converter project를 위한 자료조사 내용을 기록
 
 
 
-# 출력용 점자 파일 형식
+# 1. 출력용 점자 파일 형식
 
 [개정 점자 도서 제작 지침](https://www.nld.go.kr/upload/contents02/nld_jumja_jeajack_jichim(2019.3.).pdf) 제4장 전자형 점자 자료 제작 지침 제2절 1. 전자형 점자 자료의 외형 형식은 다음과 같이 정의되어 있다.
 > 전자형 점자 자료는 출력용 점자 파일 형식인 BRF, BRL, BBF의 형태로 제작한다. 
 
 이에 따라 본 프로젝트에서는 우선 brf형식으로 파일을 제공하며 추후 필요시 다른 확장자도 지원하기로 한다.
 
-  
 
-### 점자파일의 종류
+## 점자파일의 종류
   - 점자파일이란 점자 표시기나 점자 생성기에 사용되는 특수한 형식의 데이터 파일이다.
   - 출력용 점자 문서 파일 확장자로는 brf, bbf, brl 등이 있다.
   - 점자 음성 겸용 파일 확장자는 vbf가 있다.
@@ -30,10 +29,13 @@ pdf to hangul brf file converter project를 위한 자료조사 내용을 기록
 
 출처: [우리는 점글을 사랑합니다](https://blog.naver.com/gktkrk/223327656996)
 
+
 <br />
 <br />
 
-# 점자 변환 형식 - 유니코드 vs 점자 아스키 
+
+# 2. 점자 변환 형식, 유니코드 vs 점자 아스키 
+
 컴퓨터에서 우리 눈에 점자 형태로 보여지는 형식은 유니코드로 변환한 결과이다.   
 다음 예시 문장을 보자.
 > 매년 11월 4일은 ‘점자의 날’이다. 
@@ -96,10 +98,15 @@ brf 파일은 기본적으로는 [점자 아스키](https://ko.wikipedia.org/wik
 <br />
 <br />
 
-# 관련 라이브러리
+
+# 3. 관련 라이브러리
+
 1. pdf to text
   - [pdfminer.six](https://github.com/hyonzin/hangul-braille-converter): python
 2. text to hangul braille
   - [hanbraille](https://github.com/delvier/hanbraille): javascript, update 11개월 전, braile ascii와 유니코드 두 가지 타입 반환 지원
-* [Hangul to Braille Converter](https://github.com/hyonzin/hangul-braille-converter) : python, update 8년 전, 숫자 배열 반환만 지원
-2-3. [BrailleToKor_Python](https://github.com/Bridge-NOONGIL/BrailleToKor_Python)
+* [Hangul to Braille Converter](https://github.com/hyonzin/hangul-braille-converter) : python, update 8년 전, 숫자 배열 반환만 지원  
+
+2-3. [BrailleToKor_Python](https://github.com/Bridge-NOONGIL/BrailleToKor_Python) : python, update 3년 전
+
+
