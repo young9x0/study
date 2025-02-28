@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Date Engineering Study History"
+title                    : "Computer Science"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "주영 Juyoung"
-description              : "주영의 공부 기록"
+description              : "주영의 컴퓨터과학 공부 기록"
 url                      : "https://young9x0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/study"# the subpath of your site, e.g. "/blog"
 repository               : "young9x0/study"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Juyoung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "관심분야: Data Engineering, NLP, Voice Processing"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "관심분야: Assistive Technology for the visual impairments"
   location         : "Seoul"
   email            :
   links:
@@ -136,7 +136,7 @@ author:
       url: "https://github.com/young9x0"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/young9x0"
 
 # Site Footer
 footer:
@@ -314,7 +314,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -325,3 +325,12 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: true #right sidebar
+      toc_sticky: true
