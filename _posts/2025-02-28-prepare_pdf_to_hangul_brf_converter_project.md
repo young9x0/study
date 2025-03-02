@@ -25,9 +25,12 @@ pdf to hangul brf file converter project를 위한 자료조사 내용을 기록
   - 점자파일이란 점자 표시기나 점자 생성기에 사용되는 특수한 형식의 데이터 파일이다.
   - 출력용 점자 문서 파일 확장자로는 brf, bbf, brl 등이 있다.
   - 점자 음성 겸용 파일 확장자는 vbf가 있다.
-  - 데이지(DAISY) 파일이란 시각장애인이 도서를 오디오 형식으로 들을 수 있도록 인쇄자료를 스캔하여 도서의 원본 그대로를 데이지국제표준에 맞게 편집한 디지털 전자파일 자료이다.
+  - 데이지(DAISY)는 시각장애인 그리고 저시력인과 읽기에 장애가 있는 사람들 즉 독서 장애인을 위해 만들어진 E-Book 형식. 데이지는 Digital Accessible Information System의 약어로서 1988년 스웨덴 국립 음성 및 점자 도서관에서 개발하기 시작한 디지털 음성도서 포맷이 그 시초. 현재 데이지는 하나의 데이지에 텍스트, MP3 형태의 오디오, 점자, 이미지 콘텐츠를 담을 수 있다. 데이지는 기본적으로 XML 기반으로 만들어져 있다.
 
-출처: [우리는 점글을 사랑합니다](https://blog.naver.com/gktkrk/223327656996)
+출처
+- [우리는 점글을 사랑합니다](https://blog.naver.com/gktkrk/223327656996)
+- [디지털, 시각장애인의 책 읽기를 바꾸다 : 시각장애인을 위한 DAISY(Digital Talking Book) 소개](https://nuli.navercorp.com/community/article/1132784)
+
 
 
 <br />
