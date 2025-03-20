@@ -102,8 +102,8 @@ EPUB 변환에 대한 정확도 측정에서 평균 97.3%를 보여주었다. �
 
 
 # 참고 자료
-[김제민, 홍은지, 전광일, 전자책 표준을 이용한 시각장애인용 점자전자책 개발, 정보과학회논문지 컴퓨팅의 실 제 및 레터, 제 17권, 제 6호, pp. 353 - 398, 2011. 6.](https://www-dbpia-co-kr-ssl.openlink.knou.ac.kr:8443/journal/articleDetail?nodeId=NODE01647993)
-[한글점자번역시스템의 설계 및 구현](https://www-dbpia-co-kr-ssl.openlink.knou.ac.kr:8443/journal/articleDetail?nodeId=NODE01065733)
-[전자책 뷰어, 시각장애인에겐 ‘그림의 떡’](https://www.imedialife.co.kr/news/articleView.html?idxno=44028)
-['전자책' 늘고 '점자책' 사라진다···"공급도 수요도 없어요"](https://www.womaneconomy.co.kr/news/articleView.html?idxno=222695)
+[김제민, 홍은지, 전광일, 전자책 표준을 이용한 시각장애인용 점자전자책 개발, 정보과학회논문지 컴퓨팅의 실 제 및 레터, 제 17권, 제 6호, pp. 353 - 398, 2011. 6.](https://www-dbpia-co-kr-ssl.openlink.knou.ac.kr:8443/journal/articleDetail?nodeId=NODE01647993)  
+[한글점자번역시스템의 설계 및 구현](https://www-dbpia-co-kr-ssl.openlink.knou.ac.kr:8443/journal/articleDetail?nodeId=NODE01065733)  
+[전자책 뷰어, 시각장애인에겐 ‘그림의 떡’](https://www.imedialife.co.kr/news/articleView.html?idxno=44028)  
+['전자책' 늘고 '점자책' 사라진다···"공급도 수요도 없어요"](https://www.womaneconomy.co.kr/news/articleView.html?idxno=222695)  
 [에이씨엔에스, 국립장애인도서관에 국내 최초 전자책 및 음성도서 자동 점자 생성 솔루션 공급 (2024.07.29)](https://www.acns.co.kr/communication/view.html?kind=001&seq=30)
