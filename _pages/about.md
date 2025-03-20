@@ -56,4 +56,22 @@ last_modified_at: 2025-02-28T16:39:26-09:00
 <br />
 
 
+# Blog Articles
 
+---
+
+[**forEach, map, filter, reduce의 polyfill과 비동기 작업 문제**](https://inblog.ai/veganee/foreach-map-filter-reduce%EC%9D%98-polyfill%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9E%91%EC%97%85-%EB%AC%B8%EC%A0%9C-15627?traffic_type=internal)
+
+[**HTTP 프로토콜과 토큰 기반 로그인 방식**](https://blog.barogo.io/http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EA%B3%BC-%ED%86%A0%ED%81%B0-%EA%B8%B0%EB%B0%98-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%8B%9D-1938710c335c)
+
+[**마이크로 서비스 아키텍처의 등장과 로깅 기술의 발전**](https://blog.barogo.io/%EA%B0%9C%EB%B0%9C%EC%9D%B8%ED%84%B4-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EB%93%B1%EC%9E%A5%EA%B3%BC-%EB%A1%9C%EA%B9%85-%EA%B8%B0%EC%88%A0%EC%9D%98-%EB%B0%9C%EC%A0%84-f37106aecfc5)
+
+[**JS Date 객체의 timezone과 UTC의 차이**](https://velog.io/@maliethy/js-date-object-timezone-versus-utc)
+
+[**[Github Action] Set Zenhub Pipeline With workflow_dispatch**](https://inblog.ai/veganee/github-action-set-zenhub-pipeline-with-workflowdispatch-12569?traffic_type=internal)
+
+
+<br />
+<br />
+<br />
+<br />
