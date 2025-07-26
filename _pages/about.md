@@ -5,13 +5,8 @@ title: "자기 소개"
 last_modified_at: 2025-02-28T16:39:26-09:00
 ---
 ## Intro
-> 프로그래밍을 알게 되며 느낀 저의 기쁨을 다른 사람과 나누는 교육 서비스를 만드는 일에 기여
-하고 싶습니다.
-  
-  
+> 시각장애인뿐 아니라 비시각장애인도 누릴 수 있는 디지털 정보 접근성을 보장하기 위해 공부하고 있습니다. 현재 관심 있는 기술은 NLP와 Data Engineering입니다. 
 
-저는 프로그래밍을 알게 되면서 제 삶이 더 나아졌다고 믿습니다. 프로그래밍이 제 삶에 긍정적인 영향을 준 것처럼 다른 이들의 삶이 더 나아지는 데 도움이 될 수 있다고 생각합니다. 더 나아가 프로그래밍이라는 강력한 도
-구를 각자의 상황에 알맞게 사용할 수 있는 사람들이 많아질수록 우리 사회가 해결해야 할 문제들을 넘어서는 데 도움이 될 수 있다고 믿습니다.
 
 
 
@@ -34,10 +29,11 @@ last_modified_at: 2025-02-28T16:39:26-09:00
 
 ---
 
-| Working Period                          | Corporation Name                  | Position        |
-|-----------------------------------------|-----------------------------------|-----------------|
-| 2021.05.10 - 2022.04.08 <br/>(약 10개월)   | [모두먼트](https://www.modument.com/) | 개발팀 프론트엔드       |
-| 2022.04.11 - 2024.04.30 <br/>(약 2년 1개월) | [바로고](https://www.barogo.com/)    | 딜리버리 플랫폼팀 프론트엔드 |
+| Working Period                          | Corporation Name                  | Position          |
+|-----------------------------------------|-----------------------------------|-------------------|
+| 2021.05.10 - 2022.04.08 <br/>(약 10개월)   | [모두먼트](https://www.modument.com/) | 개발팀 프론트엔드         |
+| 2022.04.11 - 2024.04.30 <br/>(약 2년 1개월) | [바로고](https://www.barogo.com/)    | 딜리버리 플랫폼팀 프론트엔드   |
+
   
   
 <br />
@@ -64,15 +60,7 @@ last_modified_at: 2025-02-28T16:39:26-09:00
 
 ---
 
-[**forEach, map, filter, reduce의 polyfill과 비동기 작업 문제**](https://inblog.ai/veganee/foreach-map-filter-reduce%EC%9D%98-polyfill%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9E%91%EC%97%85-%EB%AC%B8%EC%A0%9C-15627?traffic_type=internal)
 
-[**HTTP 프로토콜과 토큰 기반 로그인 방식**](https://blog.barogo.io/http-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EA%B3%BC-%ED%86%A0%ED%81%B0-%EA%B8%B0%EB%B0%98-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%8B%9D-1938710c335c)
-
-[**마이크로 서비스 아키텍처의 등장과 로깅 기술의 발전**](https://blog.barogo.io/%EA%B0%9C%EB%B0%9C%EC%9D%B8%ED%84%B4-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EB%93%B1%EC%9E%A5%EA%B3%BC-%EB%A1%9C%EA%B9%85-%EA%B8%B0%EC%88%A0%EC%9D%98-%EB%B0%9C%EC%A0%84-f37106aecfc5)
-
-[**JS Date 객체의 timezone과 UTC의 차이**](https://velog.io/@maliethy/js-date-object-timezone-versus-utc)
-
-[**[Github Action] Set Zenhub Pipeline With workflow_dispatch**](https://inblog.ai/veganee/github-action-set-zenhub-pipeline-with-workflowdispatch-12569?traffic_type=internal)
 
 
 <br />
