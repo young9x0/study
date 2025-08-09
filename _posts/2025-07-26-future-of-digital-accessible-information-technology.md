@@ -5,7 +5,7 @@ categories:
   - information-accessibility
 tags:
   - DAISY
-  - 저작권
+  - 저작권(copyright)
   - pdf
 ---
 

@@ -4,7 +4,7 @@ search: true
 categories:
   - information-accessibility
 tags:
-  - 저작권
+  - 저작권(copyright)
 ---
 
 
