@@ -1,3 +1,15 @@
+---
+title: 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 - 강의 기록 2
+search: true
+categories:
+  - spring
+tags:
+  - ResponseBody
+  - AtomicLong
+  - ioC
+---
+
+
 # **스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술**
 ## 2. **스프링 웹 개발 기초**
 ### ResponseBody
