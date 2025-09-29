@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Juyoung"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "관심 분야: 정보 접근성(information-accessibility)"
+  bio              : "관심 분야: 정보 접근성(Information Accessibility), 데이터 엔지니어링(Data Engineering)"
   location         : "Seoul"
   email            :
   links:

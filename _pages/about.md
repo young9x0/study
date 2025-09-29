@@ -4,11 +4,14 @@ layout: single
 title: "자기 소개"
 last_modified_at: 2025-02-28T16:39:26-09:00
 ---
+<br />
+
+# 책처럼 컴퓨터는 세상과 나를 연결해주는 통로
+
+<br />
+
 ## Intro
-> 시각장애인뿐 아니라 비시각장애인도 누릴 수 있는 디지털 정보 접근성을 보장하기 위해 공부하고 있습니다. 현재 관심 있는 기술은 NLP와 Data Engineering입니다. 
-
-
-
+> 정보 접근성 이슈에 관심이 많습니다. 현재 관심 있는 기술은 Data Engineering입니다.
 
 <br />
 <br />
@@ -16,10 +19,9 @@ last_modified_at: 2025-02-28T16:39:26-09:00
 
 ## Skills
 
-- 사용 언어: Python, Javascript
+- 사용 언어: Javascript, Java, Python
 - 실무 경험: Javascript, Typescript, React.js, Vue.js, Cypress etc
-- 개인 공부: Python, SQL, Pandas, TensorFlow etc
-
+- 개인 공부: Java, Python, Spring, DB, SQL, AWS etc
 
 <br />
 <br />
@@ -50,19 +52,8 @@ last_modified_at: 2025-02-28T16:39:26-09:00
 | [바로고 <br/>HCR](https://www.notion.so/Hub-Control-Room-ca414c0e6602485c93d7b39c795955b9?pvs=21) | 2022.10 - 2024.04 | 프론트엔드    | Vue.js, Vuex, Vuetify,  Typescript, Cypress |
 
 
-
-
 <br />
 <br />
-
-
-# Blog Articles
-
----
-
-
-
-
 <br />
 <br />
 <br />
