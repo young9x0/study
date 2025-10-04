@@ -1,5 +1,5 @@
 ---
-title: <자바 웹 개발 워크북> - 구멍가게 코딩단 1.2~1.3
+title: 자바 웹 개발 워크북 - 구멍가게 코딩단 1.2~1.3
 search: true
 categories:
   - java
