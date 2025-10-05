@@ -34,3 +34,6 @@ tags:
   - Model: Controller에게 필요한 데이터를 제공하는 역할
   - Controller: View에 필요한 데이터를 가공하는 역할(servlet)
   - View: Controller가 가공한 결과를 출력하는 역할(JSP)
+
+# 참고자료
+- [자바 웹 개발 워크북 - 예스24](https://www.yes24.com/Product/Goods/111136639)
