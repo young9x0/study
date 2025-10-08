@@ -1,6 +1,6 @@
 
 ---
-title: 통계학과 확률의 개념 정리
+title: 통계학과 확률의 개념 정리 1
 search: true
 categories:
 - statistics
