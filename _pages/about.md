@@ -2,11 +2,10 @@
 permalink: /about/
 layout: single
 title: "자기 소개"
-last_modified_at: 2025-02-28T16:39:26-09:00
 ---
 <br />
 
-# 책처럼 컴퓨터는 세상과 나를 연결해주는 통로
+**컴퓨터**는 책과 더불어 세상과 나를 연결해주는 통로
 
 <br />
 
