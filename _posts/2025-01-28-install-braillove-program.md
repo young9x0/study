@@ -2,10 +2,10 @@
 title: 점사랑 설치 시 msvcp140.dll 파일 없음 에러 해결
 search: true
 categories:
-  - braille
+  - accessibility
 tags:
   - braillove5
-  - braile-editor
+  - braile editor
 ---
 점사랑 설치 시 오류 내용을 기록한다.
 <br />

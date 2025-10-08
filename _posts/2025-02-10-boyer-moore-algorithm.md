@@ -4,8 +4,8 @@ search: true
 categories:
   - algorithm
 tags:
-  - Boyer-Moore
-  - string_algorithm
+  - Boyer Moore
+  - string algorithm
 ---
 <br />
 보이어무어는 문자열 매칭이 마지막에 틀릴 가능성이 높다는 특징을 이용한다.  

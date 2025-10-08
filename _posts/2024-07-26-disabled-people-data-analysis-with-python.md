@@ -2,12 +2,10 @@
 title: 공공데이터 분석 - 서울시 자치구별 장애인콜택시 이용빈도수 분석하기
 search: true
 categories:
-  - data_analysis
+  - data analysis
 tags:
-  - public_data_analysis
-  - call_taxi_for_disabled_data
-  
-  - seoul_disabled_people_data
+  - public data analysis
+  - call taxi for disabled data
 ---
 장애인콜택시 이용 정보 공공데이터를 이용해 서울시 자치구별 장애인콜택시 이용 빈도수를 분석해 보았습니다.
 

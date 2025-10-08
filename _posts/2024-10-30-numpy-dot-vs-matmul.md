@@ -2,7 +2,7 @@
 title: numPy dot과 matmul 차이
 search: true
 categories: 
-  - numPy
+  - python
 tags:
   - numPy
   - numPy.dot

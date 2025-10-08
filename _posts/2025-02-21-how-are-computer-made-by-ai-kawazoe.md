@@ -2,10 +2,10 @@
 title: 책 리뷰, <컴퓨터는 어떻게 만들어졌나요?>
 search: true
 categories:
-  - book_review
+  - book review
 tags:
-  - computer_history
-  - computer_structure
+  - computer history
+  - computer structure
 ---
 <br />
 도서관에서 심심풀이로 읽으려고 한 장 두 장 넘겼는데 그동안 내가 컴퓨터구조 관련 책들을 읽으며 이해하지 못하고 넘어간 부분을 이해하기 쉽게 설명해놓아 이렇게 기록하게 되었다. 

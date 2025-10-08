@@ -2,9 +2,9 @@
 title: 점자책 제작 관련 저작권 이슈
 search: true
 categories:
-  - information-accessibility
+  - accessibility
 tags:
-  - 저작권(copyright)
+  - copyright
 ---
 
 

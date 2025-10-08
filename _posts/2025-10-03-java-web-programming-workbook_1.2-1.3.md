@@ -4,9 +4,9 @@ search: true
 categories:
   - java
 tags:
-  - Java_EE
+  - JavaEE
   - Servlet
-  - web_mvc
+  - web MVC
 ---
 
 # 1장 웹 프로그래밍의 시작

@@ -2,10 +2,9 @@
 title: 논문 리뷰, 전자책 표준을 이용한 시각장애인용 점자전자책 개발
 search: true
 categories:
-  - paper_review
+  - accessibility
 tags:
-  - epub_to_braile
-  - braile-ebook
+  - epub to braile
 ---
 내가 구현해보고 싶었던 전자책을 점자책으로 변환하는 프로그램에 대한 논문을 발견했다. 2011년에 발표된 오래된 자료이나 연구가 제기하고 있는 문제 설정이 내가 앞으로 도전하고 싶은 분야라 리뷰를 하게 되었다. 
 <br />

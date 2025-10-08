@@ -2,7 +2,7 @@
 title: RESTful API 개념 정리
 search: true
 categories:
-- Computer-Science
+- api
 tags:
 - restful-api
 - Model

@@ -1,12 +1,12 @@
 ---
-title: JSP - mac intellj tomcat 연결하기
+title: jsp - mac intellj tomcat 연결하기
 search: true
 categories: 
-  - config
+  - jsp
 tags:
-  - brew_install_microsoft-openjdk@21
-  - brew_install_tomcat@9
-  - intellij_with_tomcat
+  - microsoft-openjdk@21
+  - tomcat@9
+  - intellij
 ---
 <br />
 jdk, tomcat을 mac brew로 설치한다. 그후 intellij에 jdk와 tomcat을 연결한다.

@@ -2,7 +2,7 @@
 title: 데이저 무결성 vs 데이터 정합성 개념 비교
 search: true
 categories:
-- data
+- database
 tags:
 - data_integrity
 - data_consistency

@@ -2,10 +2,12 @@
 title: 방통대 <JSP프로그래밍> 12, 14장 연습문제
 search: true
 categories:
-  - JSP
+  - jsp
 tags:
-  - maria_db
-  - java_bean
+  - mariaDB
+  - java bean
+  - DTO
+  - DAO
 ---
 
 

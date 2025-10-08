@@ -4,8 +4,8 @@ search: true
 categories: 
   - math
 tags:
-  - multiple_linear_regression_model
-  - matrix_derivative
+  - multiple linear regression model
+  - matrix derivative
 ---
 <br />
 다변량 선형회귀 모델 최적의 파라미터 w 구하며 행렬 미분에 대해 알아본다. 

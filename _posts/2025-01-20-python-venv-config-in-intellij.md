@@ -2,10 +2,10 @@
 title: intellij python venv(가상환경) 설정
 search: true
 categories: 
-  - python_venv
+  - python
 tags:
-  - intellij_python_venv_config
-
+  - intellij 
+  - venv
 ---
 intellij에서 프로젝트별 python venv(가상환경)을 설정하는 방법을 기록한다.
 

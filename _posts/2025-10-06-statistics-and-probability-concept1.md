@@ -7,7 +7,7 @@ categories:
 tags:
 - population
 - probability
-- random-variable
+- random variable
 ---
 
 

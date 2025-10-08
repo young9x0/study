@@ -4,8 +4,8 @@ summary:    "Selenium webdriver OSError: [Errno 8] Exec format error"
 categories: 
   - error
 tags:
-  - Selenium_Webdriver
-  - Webdriver_OS_Error
+  - Selenium Webdriver
+  - Webdriver OS Error
 last_modified_at: 2024-07-30T23:06:00-05:00
 ---
 

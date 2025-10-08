@@ -2,12 +2,12 @@
 title: Jekyll theme로 깃허브 블로그 만들기 
 search: true
 categories: 
-  - Jekyll-Theme  
+  - blog  
 tags:
-  - jekyll_theme
-  - github_io
+  - jekyll theme
+  - github io
   - _config.yml
-  - 깃허브_블로그
+  - 깃허브 블로그
 ---
 <br />
 다음 내용은 Jekyll theme - [minimal-mistakes-master](https://github.com/mmistakes/minimal-mistakes)의 기본 설정을 중심으로 다루고 있다.

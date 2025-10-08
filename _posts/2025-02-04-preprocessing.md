@@ -2,10 +2,10 @@
 title: 데이터 사전 처리 data preprocessing
 search: true
 categories:
-  - data_preprocessing
+  - ai
 tags:
-  - one_hot_encoding
-  - feature_scaling
+  - one hot encoding
+  - feature scaling
 ---
 <br />
 

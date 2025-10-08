@@ -2,12 +2,12 @@
 title: book review - 웹 3.0이 온다 (장세형, 이상준 지음, 위키북스 펴냄, 2023)
 search: true
 categories:
-  - book_review
+  - book review
 tags:
-  - web_3.0
-  - block_chain
+  - web3.0
+  - block chain
   - bitcoin
-  - meta_bus
+  - meta bus
 ---
  WEB 3.0 하면 떠오르는 '탈중앙'과 '분산 웹 관점'이 가진 왠지 가슴을 뜨겁게 하는 이상적인 기운(?)에 매료되어 펼쳐 든  ‘웹 3.0이 온다’(장세형, 이상준 지음, 위키북스 펴냄, 2023)이란 책을 리뷰해보려 합니다.   
  좋은 책을 발견하고 횡재한 느낌을 같이 나누고 싶어 이렇게 노트북 앞에 앉게 됐습니다.

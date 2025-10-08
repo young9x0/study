@@ -2,7 +2,7 @@
 title: 점자로 프로젝트 contribute하기
 search: true
 categories:
-  - contribute
+  - accessibility
 tags:
   - jumjaro
   - dotnet_sdk

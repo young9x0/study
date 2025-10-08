@@ -2,9 +2,9 @@
 title: pandas 함수 매핑 시 map vs apply 
 search: true
 categories:
-  - pandas
+  - ai
 tags:
-  - function-mapping
+  - function mapping
   - apply
   - map
 ---

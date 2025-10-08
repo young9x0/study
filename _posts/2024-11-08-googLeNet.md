@@ -2,11 +2,11 @@
 title: 합성곱 신경망 - googLeNet inception_module 작동방식 이해하기
 search: true
 categories: 
-  - Deep-learning  
+  - ai
 tags:
   - googLeNet
   - keras.layers.Input
-  - inception_module
+  - inception module
 ---
 합성곱 신경망 중 하나인 googLeNet의 코드 중 inception_module 작동 방식 이해하기 
 <br />

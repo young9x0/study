@@ -2,12 +2,10 @@
 title: 공공데이터 분석 - 전국 축산농가 수와 지하수 오염 현황 데이터 전국 지도로 그리기
 search: true
 categories:
-  - data_analysis
+  - data analysis
 tags:
-  - public_data_analysis
-  - call_taxi_for_disabled_data
-  
-  - seoul_disabled_people_data
+  - public data analysis
+  - animal farm data
 ---
 전국 축산농가 수와 지하수 오염 현황 데이터를 분석해 보았습니다.
 

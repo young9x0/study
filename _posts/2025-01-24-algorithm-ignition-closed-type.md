@@ -2,9 +2,9 @@
 title: 알고리즘 점화식과 폐쇄형 증명
 search: true
 categories: 
-  - ignition-closed-type
-tags:
   - algorithm
+tags:
+  - ignition closed type
 
 ---
 

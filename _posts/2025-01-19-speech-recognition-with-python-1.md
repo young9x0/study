@@ -3,9 +3,9 @@ title: 음성인식 문제의 수식 표현
 summary: 파이썬으로 배우는 음성인식, 2장 2-3절, 다카시마 료이치
 search: true
 categories: 
-  - speech-recognition 
+  - ai
 tags:
-  - speechRecognition
+  - speech recognition
 
 ---
 다카시마 료이치의 파이썬으로 배우는 음성인식, 2장 2-3절을 참고해 '음성인식 문제의 수식 표현'을 하면 다음과 같다.

@@ -4,10 +4,8 @@ search: true
 categories:
   - math
 tags:
-  - 자연언어처리-강의노트
-  - 방통대-자연언어처리
-  - gensim-similarities
-  - cosine-similarity
+  - gensim similarities
+  - cosine similarity
 last_modified_at: 2024-09-04T23:06:00-05:00
 ---
 
