@@ -64,4 +64,7 @@ tags:
 * 적률의 수식 정의에 따라 연속확률변수에서 적률을 구하기 위해 적분을 해야하지만 적분 계산이 어렵거나 불가능한 경우도 있기 때문에 이러한 상황을 해결하고자 적률생성함수(Moment Generating Function, MGF)를 만들어 사용한다. 
 * 출처: [https://roytravel.tistory.com/353](https://roytravel.tistory.com/353)
 
+# 참고자료
+- [통계학의개념및제문제 - 한국방송통신대학교 출판문화원](https://press.knou.ac.kr/goods/textBookView.do?condCmdtCode=9788920031618&condLscValue=001&condYr=&condSmst=)
+
 
