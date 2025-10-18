@@ -13,14 +13,14 @@ tags:
 
 
 # mariadb 설치/접속
-1. brew update
+## 1. brew update
 ```
 brew update
 > Already up-to-date.  
 ```
 
 
-2. brew로 mariadb 정보 확인
+## 2. brew로 mariadb 정보 확인
 ```
 brew info mariadb
 > ==> mariadb: stable 12.0.2 (bottled)
@@ -28,15 +28,16 @@ brew info mariadb
 ```
 
 
-3. brew로 mariadb 설치
+## 3. brew로 mariadb 설치
 ```
 brew install mariadb
 ```
 
 
-4. brew로 mariadb를 실행
+## 4. brew로 mariadb를 실행
 ```
 brew services start mariadb
+==> Successfully started `mariadb` (label: homebrew.mxcl.mariadb)
 ```
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABzgAAAI+CAYAAADAe9ypAAAAAXNSR0IArs4c6QAA
@@ -9752,9 +9753,10 @@ x3bB+0AFCpuavJFHY5GfCm0rP/l9YT6GpEtZXpIJcFGWQlmG0l5+REd4AC9iFgmO
 v+GRsbH2jXT83UHEDdfE9/ZnWHj/Y7vIw05OVO3Ex78CCx9/2V40hrBt+PibG4g/
 fzIUHFv9+WN4+PM3jhm6+vyDSPj8y2Dw+VdsC+obPv8SEvl7is8/DRJ9p/P5Z2wf
 wgP9ZU+af1a9ozWFTUsREKzbYR0tDiiKpSQeHKLQibGlkwDlLRPXxvrC/wMn12fy
-M/BY4QAAAABJRU5ErkJggg==)
+M/BY4QAAAABJRU5ErkJggg==)  
 
-5. mariadb에 접속
+
+## 5. mariadb에 접속
 ```
 mariadb
 ```
@@ -14985,8 +14987,9 @@ PxEr4ILUYpalo+XUD5VtfSGPJPxH49lilhEbbU89aFt2KA874T8RK+CC1GKWpaPl
 1A+VbX0hjyT8R+PZYpYRG21PPWhbdigPO+E/ESvggtRilqWj5dQPlW19IY+0IuHP
 NueW57aDj3KeT7SJesq9WDfbnX/8cGcIgFmZGGQMxbr62rpGGE3wU9sDpnOSZzim
 9P8AtKGi0a1yAYwAAAAASUVORK5CYII=)
+  
 
-6. 현재 mariadb에 존재하는 데이터베이스를 출력
+## 6. 현재 mariadb에 존재하는 데이터베이스를 출력
 ```
 MariaDB [(none)]> show databases;
 +--------------------+
@@ -15001,7 +15004,8 @@ MariaDB [(none)]> show databases;
  5 rows in set (0.005 sec)
 ```
 
-7. mysql 데이터베이스를 선택
+## 7. mysql 데이터베이스를 선택  
+
 ```
 MariaDB [(none)]> use mysql
 Reading table information for completion of table and column names
@@ -15010,10 +15014,10 @@ You can turn off this feature to get a quicker startup with -A
 Database changed
 
 MariaDB [(mysql)]>
-```
+```  
 
+## 8. mariadb 계정 정보 불러오기  
 
-8. mariadb 계정 정보 불러오기
 ```
 MariaDB [mysql]> select host, user, password from user;
 +------------------------+-------------+----------+
@@ -15027,9 +15031,11 @@ MariaDB [mysql]> select host, user, password from user;
 +------------------------+-------------+----------+
 5 rows in set (0.003 sec)
 ```
+  
 
-9. 루트계정 비밀번호 변경/저장
-   - ’test’에 원하는 비밀번호 입력하기
+## 9. 루트계정 비밀번호 변경/저장  
+   - ’test’ 자리에 원하는 비밀번호 입력하기  
+   
 ```
 MariaDB [mysql]> set password for 'root'@'localhost'=password('test');
 Query OK, 0 rows affected (0.009 sec)
@@ -15045,9 +15051,11 @@ MariaDB [mysql]> select host, user, password from user;
 | juyoungui-macbookpro.local|            |          |
 +------------------------+-------------+----------+
 5 rows in set (0.003 sec)
-```
+```  
 
-10. mariadb 종료
+
+## 10. mariadb 종료  
+
 ```
 MariaDB [mysql]> \q
 Bye
