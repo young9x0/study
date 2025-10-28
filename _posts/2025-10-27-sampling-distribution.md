@@ -25,7 +25,10 @@ tags:
 
 # 표준화된 표본평균의 확률분포
 ## t분포
--  표본의 크기가 30보다 적은 경우, 모분산을 모를 경우에 확률표본에서 얻어진 표본분산을 구해 이를 모분산 대신 사용할 때 정규분포가 아닌  t분포를 따른다.
+- 다음 통계량 t의 분포는 정규분포가 아닌 t분포를 따른다(1908, 고셋 증명함)
+- ![t분포 공식](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYIAAACCCAMAAAB8Uz8PAAAAgVBMVEX///8AAADt7e2/v78+Pj7d3d3Y2Ng5OTn29vbHx8fOzs4aGhry8vKzs7N8fHx1dXVMTEwpKSkgICCcnJwvLy+Ojo4ICAhHR0e4uLjR0dFWVlarq6va2trn5+eKioqYmJhjY2NpaWlTU1MTExMzMzOkpKQcHByLi4teXl6CgoJ5eXlOAlS2AAAEtElEQVR4nO3d6XaqOgAFYDZjUCiTTCoqDj3i+z/gBbR1aHsr5whZrfv7E1pkNSWQ2URRiIiIiIiIiIiIiIiIiO4knDdCdlSe1WocHgWZ7Kg8KyM/MVXZUSEiouGJbOfWZm59rM3aI9aKhiWWK9QmUX0ctUcxk2BgQswS7OftsYfVnE0DGSzAbkIbkeyoPCsXWNTPvj2OZcfkaYkEm0LJJ5XsiDyxP8BODQ8sBeQxgCT0OqaAN24LkKJ0+4jSsxEV4Hd9B5C0SbDAvocYPZ8MnW/kCL7RhCVYiD+AKIHQ7nbNAm3ZYaToeCF9ZrUuE3ysDxWZe+VqMCHFsgmyDQaK5G8mPGuuWtDN2xOz1+DKZHQ+VwSh1oQR0uFi+luJOMwV5VDXSz+cmZtX5hfnskRvhndU7/gy0D8Q0abJzOt66b7LkNkfTJvAsGAohtNP1J7FDG2GomyBvMNlJQ5NkANCXXW5kG7FpxRQ7E71UlNv66J1VWql5Ouij5g9Bce0PayPpXChAbDvzlKypMmInCXql6Fkw+CvxZtmjKZ9hkU7cIPthyL5CzskeFnup5ofVBOjz0j+PF26GYr53DDmRntJHdbH5p1ZiuMhzpexpirFLmI2dCUbpo5oTMBH/wv+MEkwQsiK6BeSZJCu4wglBxc+Z0Ifoo4uppgN8Gd+pCVWQzydYvr6oUOJatOtlWBjTdhpI407i4Okmu3O/ZnF6BZnTvfMDsKre1wl42sbviE9i2Bd/VzYt9iM6pd4waLLx9WH6e1f+mkMH6PvP/XOnuiPYa2ZBic2cFMlFbcuT6qZ9iA222knbjuOm5/vxyL1r6X39oTSXxHtOG4enItc+/Byo/OEE+GonO5+N9Vvhh6rrhMT/5eWpr6+Yq/onUQJQ4n8R96vDLEhjNeHpuqvpmG917vUib6jprrSpMOKNZ57FbPsoc+rFm6br358nGFEQxkF2FRsUctUN7ebMX3O25VInZUhkPI9kEW1m46kHQJNdkyelQG0A9Fp8MhaFnVgY9LMpXbCPZsFkpht17dRbjhrV5rdZF36QTr//pPUF5G7OTMhIiIiIiIiei7mfdhg7s90a90h4JyW/hTGPeZ8C4hoaJzFIpuq+wfvUskkGViMsrqane0xCYZl6FPZUXh2UafFuujxipSL8UrmciVYyZyxx1Vv5Hpbv5GkCffNSyCyxU5VhBsvIn7fZmDucd2hbLLEIl9Zy2Wgs49uUKL9rpmi+pkCtDNMK3DDiEGdSgJTN+okqJrnv/pkgXd6tPOAjLoK2lB7Uezjwu6Cq4QPYJe+14E0HHcsUAtlAa85MtNOC43QX1A94G1nJ2elv9d/1qcNI8ANI3rmvBxKvJ7awzbet+0wtu0vRYVSEawT9UkYinrc6q+Wnldkdzfbpn1QTGArGTdn71uJcVsi5xc7XsbHDSM0bB0x5RKlfTNxzPen1ntJUFeE2gXyl3Uw0jmHpW/1/W4W99IuXgJTP64SPsIyB/Oh/tlJ/RqI8mKRteJQtqETTdfMhgagltgq9tWSpupbcnAxxmHskOxi8GZL5PgANwCXKwIs1nukEgl742RbbLk/gWzsByIiIiIiIiIiIiIiIqLH+A/Z5UIB7GneRwAAAABJRU5ErkJggg==)
+- 표본의 크기가 30보다 적은 경우, 모분산을 모를 경우에 확률표본에서 얻어진 표본분산을 구해 이를 모분산 대신 사용할 때 정규분포가 아닌 t분포를 따른다.
+
 
 # 표본분산비의 확률분포
 ## F분포
@@ -39,3 +42,4 @@ tags:
 - [통계학의개념및제문제 - 한국방송통신대학교 출판문화원](https://press.knou.ac.kr/goods/textBookView.do?condCmdtCode=9788920031618&condLscValue=001&condYr=&condSmst=)
 - [카이제곱분포의 가법성](https://datanovice.tistory.com/entry/%EC%B9%B4%EC%9D%B4%EC%A0%9C%EA%B3%B1-%EB%B6%84%ED%8F%AC-Chi-squared-distribution)
 - [카이제곱분포 증명](https://blog.naver.com/mykepzzang/220852102307)
+- [t분포 증명](https://blog.naver.com/mykepzzang/220853827288)
