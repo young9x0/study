@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juyoung"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "관심 분야: 정보 접근성(Information Accessibility), 데이터 엔지니어링(Data Engineering)"
+  name             : "Duugong"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "매체비평, 장애학"
   location         : "Seoul"
   email            :
   links:
