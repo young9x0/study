@@ -1,5 +1,5 @@
 ---
-title: 데이저 무결성 vs 데이터 정합성 개념 비교
+title: 데이터 무결성 vs 데이터 정합성 개념 비교
 search: true
 categories:
 - database
