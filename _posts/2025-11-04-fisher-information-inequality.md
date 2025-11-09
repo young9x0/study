@@ -7,7 +7,7 @@ tags:
 - Fisher's Information Inequality
 - Cramér-Rao Lower Bound
 ---
-- **피셔의 정보량 부등식(Fisher's Information Inequality)**은 **크라메르-라오 하한(Cramér-Rao Lower Bound, CRLB)**이라고도 불리며, 모수 \(\theta \)의 임의의 불편 추정량(unbiased estimator) \(\^{\theta }\)가 가질 수 있는 최소 분산(variance)의 이론적인 하한을 규정하는 부등식이다.
+- **피셔의 정보량 부등식(Fisher's Information Inequality)**은 **크라메르-라오 하한(Cramér-Rao Lower Bound, CRLB)**이라고도 불리며, 모수(θ)의 임의의 불편 추정량(unbiased estimator, θ^)가 가질 수 있는 최소 분산(variance)의 이론적인 하한을 규정하는 부등식이다.
 > Var(θ^)≥1/I(θ)
 - Var(𝜃^): 추정량의 흔들림 (분산)
 - I(θ): 피셔의 정보량
