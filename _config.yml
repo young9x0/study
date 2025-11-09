@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Duugong's Blog"
+title                    : "young9x0's Study"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Duugong"
-description              : "공부 기록"
+name                     : "young9x0"
+description              : "young9x0의 공부 기록"
 url                      : "https://young9x0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/study"# the subpath of your site, e.g. "/blog"
 repository               : "young9x0/study"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duugong"
+  name             : "young9x0"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "매체비평, 장애학"
+  bio              : "관심 분야: 디지털 접근성, 매체 비평, 장애학"
   location         : "Seoul"
   email            :
   links:
