@@ -210,6 +210,10 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
   input: GFM
   hard_wrap: false
   auto_ids: true
