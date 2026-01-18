@@ -1,5 +1,5 @@
 ---
-title: 장애여성공감 춤추는허리, 주렁주렁 치렁치렁 연극 후기
+title: 장애여성공감 춤추는허리, "주렁주렁 치렁치렁" 연극 후기
 search: true
 mathjax: true
 categories:
@@ -8,7 +8,7 @@ tags:
 - 장애여성공감
 - 춤추는허리
 ---
-
+2025.12.17에 관람한 춤추는허리 돌봄추리극 중간과정 발표회 "[주렁주렁 치렁치렁](https://www.moduarttheater.or.kr/product/ko/performance/252992)"을 본 후기를 정리해본다.
 ![ticket]({{site.url}}{{site.baseurl}}/assets/images/dancing-waist-play/ticket.jpeg)
 
  춤추는허리 공연을 직접 보긴 처음이었다. 내가 기존에 알던 연극과는 다를 것이라는 막연한 짐작을 하고 갔으나 대본이 적힌 카드를 넘기며 대사를 읽는 발달장애인 여성 배우를 무대에서 보는 건 역시나 당혹스러웠다.  
