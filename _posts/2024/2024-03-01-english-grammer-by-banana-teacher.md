@@ -133,10 +133,11 @@ tags:
 
 ### 복수형
 
-| o | tomatoes |
-|---|---|
-| x | boxes |
-| s | buses |
+| 어미 | 복수형 |
+|----|-----|
+| o  | tomatoes |
+| x  | boxes |
+| s  | buses |
 | ss | misses |
 | ch | watches |
 | sh | finishes |
