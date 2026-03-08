@@ -15,6 +15,7 @@ title: "자기 소개"
 ## 관심 주제
 - 장애학 Disability Studies
 - 여성학 Women's Studies
+- 정보 접근성 Information Accessibility
 
 <br />
 <br />
