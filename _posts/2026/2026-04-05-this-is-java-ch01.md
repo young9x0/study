@@ -9,7 +9,7 @@ tags:
 ---
 인테리제이(intellij) 자바 소스 작성부터 실행하기
 
-1. 현재 설치된 java 버전 터미널에서 확인하기
+## 1. 현재 설치된 java 버전 터미널에서 확인하기
 ```
 java -version
 openjdk version "26-ea" 2026-03-17
@@ -17,11 +17,14 @@ OpenJDK Runtime Environment (build 26-ea+17-1764)
 OpenJDK 64-Bit Server VM (build 26-ea+17-1764, mixed mode, sharing)
 ```
 
-2. intellij new project 설정
-> language: java
-> build system: gradle
+## 2. intellij new project 설정
+> language: java  
+
+> build system: gradle  
+
 > jdk: openjdk-26
-* jdk: add SDK > download jdk 선택
+* jdk: add SDK > download jdk 선택  
+
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACbQAAAYqCAYAAAACPHq+AAAAAXNSR0IArs4c6QAA
 AHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAAB
 AAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQAB
@@ -15040,8 +15043,9 @@ gAABAgQIECBAgAABAgQIECBAgMCLBDzQ9iJYZQmsFHh7e1tZTi0CBAgQIECAAAEC
 BAgQIECAAAECBAgQIECAAAECBAgQIECAAAECf6XAbxqoVmb9BlgtAAAAAElFTkSu
 QmCC)
 
-3. `/src/ch01`폴더 안에 Hello.java 소스코드 파일 만들기
-```
+## 3. `/src/ch01`폴더 안에 Hello.java 소스코드 파일 만들기  
+
+```java
 package ch01;
 
 public class Hello {
@@ -19077,9 +19081,10 @@ GIiIKQjhnas1f9r/4LApmChtR8Dut913L1Ladq6cK0UAAQQQQAABBBBAAAEEEAgU
 ghA7/SHghAgggAACCCCAAAIIIIAAAggg0DIFrNem4SiIltlWWoUAAgg0FGi7He/B
 Fgnl0OTAUfA1t+Rv/w/X0wf4MNNlhAAAAABJRU5ErkJggg==)
 
-3. 바이트코드 파일 컴파일하기
+## 4. 바이트코드 파일 컴파일하기
 > javac -d bin src/ch01/Hello.java
-* javac 실행 시 java 소스코드가 기계어로 컴파일되면서 운영체제에 독립적인 바이트코드 파일(*.class)가 생성된다. 
+* javac 실행 시 java 소스코드가 기계어로 컴파일되면서 운영체제에 독립적인 바이트코드 파일(*.class)가 생성된다.  
+
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABnwAAAPgCAYAAAAY59JYAAAAAXNSR0IArs4c6QAA
 AHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAAB
 AAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQAB
@@ -19088,7 +19093,7 @@ FiUBSVIk8AAAQABJREFUeAHsnQe8HUX1+Oe9vPTeGyEJSegEiHRpFnpXmggIiFTB
 vwoCIkiRjiLiT1BAKQoqoII0aVIEFKQ36ZCQhPTe2/98Z+/Znd07d299SYCZ93l3
 p5wz5eyZMzPnzMw2GdO0wpgVpkn+Vsgfrqmp4F/RJCFJk8cKkmIP/gQz4Af6Bf4J
 /SfIjyA/ZWQI40cYP6O5RJg/SG8I86d42hh7wvwxzJ/D+kFXXmH9FNZPYf0U1k9h
-/RTWT2H9FNaPQf8a9M92LJD180EHHWheffVVxELDHXzWvXt306VLF9O2bVub/5Il
+/RTWT2H9FNaPQf8a9M92LJD180EHHWheffVVxELDHXzWvXt306VLF9O2bVub/5Il©
 S8zcuXPNrFmzROcfyeNKC17d86u0HZXA3XzzzWbTTTeNQaHVY489Zv72t7+ZxYsX
 m/79+5uvfOUrZtCgQZbGLS0tMewLL7xgDjvssDhcrefEE080/fr2Mz8+58cWdZ11
 1jEff/yxfWdEEJ40aZKZOXOmufbaa83ZZ59tJk6caGGlFtFL1ckGsVQ+MvUUXri+
@@ -24249,8 +24254,9 @@ OKohgAACCCCAAAIIIIAAAggggAACCCCAAAIIIHBXAonEXVWnMgJWgICP1WAdAQQQ
 QAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEMhCgf8DuR6VyQdlX1AAAAAASUVORK5C
 YII=)
 
-5. 바이트코드 파일 기계어로 번역해서 실행하기
-> java -cp bin ch01.Hello       
+## 5. 바이트코드 파일 기계어로 번역해서 실행하기
+> java -cp bin ch01.Hello  
+
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABHwAAAKOCAYAAADUAg4HAAAAAXNSR0IArs4c6QAA
 AHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAAB
 AAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQAB
