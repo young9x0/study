@@ -2,9 +2,9 @@
 title: 이것이 자바다, ch01, intellij
 search: true
 categories:
-- book review
-tags:
 - java
+tags:
+- javac
 - intellij
 ---
 인테리제이(intellij) 자바 소스 작성부터 실행하기
