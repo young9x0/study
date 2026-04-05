@@ -12,8 +12,8 @@ tags:
 jdk, tomcat을 mac brew로 설치한다. 그후 intellij에 jdk와 tomcat을 연결한다.
 
 ## 1. jdk 설치
-> brew search jdk 
-> brew install --cask microsoft-openjdk@21
+> brew search jdk  
+> brew install --cask microsoft-openjdk@21  
 > java —version
 
 ![brew_install_jdk.png]({{site.url}}{{site.baseurl}}/assets/images/jsp/brew_install_jdk.png)
@@ -30,8 +30,8 @@ jdk, tomcat을 mac brew로 설치한다. 그후 intellij에 jdk와 tomcat을 연
 
 ## 3. intellij에 jsp 프로젝트 생성
 - [intellij tomcat 연동하기](https://velog.io/@ccorgi1997/JSP-M1-%EB%A7%A5-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-Tomcat-%EC%97%B0%EB%8F%99-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%9C%EB%B2%84-%EB%91%90%EA%B0%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0) 이 블로그 글을 참고했다.
-- 다만 jdk 경로 설정 부분에서 자세한 설명이 없어 애를 먹었는데 jdk를 설치하면 다음 경로에 jvm이 생설되어 있을 것이다. 해당 home 폴더를 선택해주면 된다. 
-- 예를 들면 `/Library/Java/JavaVirtualMachines/microsoft-21.jdk/Contents/Home
+- 다만 jdk 경로 설정 부분에서 자세한 설명이 없어 애를 먹었는데 jdk를 설치하면 다음 경로에 jvm이 생성되어 있을 것이다. 해당 home 폴더를 선택해주면 된다. 
+- 예를 들면 `/Library/Java/JavaVirtualMachines/microsoft-21.jdk/Contents/Home`
 ![config_new_project]({{site.url}}{{site.baseurl}}/assets/images/jsp/config_new_project.png)
 - 프로젝트가 생성되었다면 서버를 tomcat으로 설정해준다.
 
